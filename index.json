@@ -1,0 +1,11 @@
+{
+  "org": "mosaicml",
+  "repo": "streaming",
+  "versions": [
+    {
+      "commit": "1381ca1213fc95b6573efb44e5ec9f85c765ce1c",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:00:32.900231+00:00"
+    }
+  ]
+}
